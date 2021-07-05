@@ -12,8 +12,15 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
+}
+
+#top-banner{
+    background-image: url("../images/top-banner.png");
     background-repeat: no-repeat;
 }
+
+/* style="background-image: url(images/top-banner.png);" */
 
 
 
@@ -34,3 +41,19 @@ section{
     color: white;
     text-transform: uppercase;
 }
+
+
+
+/* first part ends */
+
+/* style="background-image: url(images/dream-bg.png); background-repeat: no-repeat; background-position: right;" */
+
+
+
+.dream-big{
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
